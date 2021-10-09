@@ -8,6 +8,7 @@ Awesome list of websites that can be used as answers, contributions welcome!
 - https://outlinenone.com - Don't do it
 - https://0.30000000000000004.com - Why `0.1 + 0.2 != 0.3` (floating-point math)
 - https://12factor.net - The Twelve Factors
+- http://info.cern.ch - The first website ever
 
 ## Criteria
 
