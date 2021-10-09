@@ -12,3 +12,4 @@ Awesome list of websites that can be used as answers, contributions welcome!
 ## Criteria
 
 The website could be used as the answer to the question alone, without any explanations (Since they will be on the website itself.) The website should serve only one purpose.
+The exception type of question is `What is X?`, and they won't be accepted since there will be so many websites.
