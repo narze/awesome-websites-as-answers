@@ -4,6 +4,8 @@ Awesome list of websites that can be used as answers, contributions welcome!
 
 - https://dontasktoask.com - Don't ask to ask, just ask
 - https://nohello.net - Please don't say just hello in chat
+- https://modalzmodalzmodalz.com - We use too many modals
+- https://outlinenone.com - Don't do it
 
 ## Criteria
 
