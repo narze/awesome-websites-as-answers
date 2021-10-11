@@ -9,6 +9,7 @@ Awesome list of websites that can be used as answers, contributions welcome!
 - https://0.30000000000000004.com - Why `0.1 + 0.2 != 0.3` (floating-point math)
 - http://info.cern.ch - The first website ever
 - https://xyproblem.info/ - The XY Problem
+- https://youtu.be/jNQXAC9IVRw - The first video on YouTube
 
 ## Criteria
 
