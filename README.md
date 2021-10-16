@@ -10,6 +10,7 @@ Awesome list of websites that can be used as answers, contributions welcome!
 - http://info.cern.ch - The first website ever
 - https://xyproblem.info/ - The XY Problem
 - https://youtu.be/jNQXAC9IVRw - The first video on YouTube
+- http://shutup.com/ - Shut up
 
 ## Criteria
 
