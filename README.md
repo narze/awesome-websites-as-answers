@@ -15,6 +15,7 @@ Awesome list of websites that can be used as answers, contributions welcome!
 - https://tinvv.github.io/555/ - Stop using 555 as laughing
 - https://itdidnt.work/ - Don’t just say “It didn’t work.”
 - https://shouldideploy.today - Should I deploy today?
+- https://www.idontwanttotalkaboutit.net - You need an advance health care directive!!!
 
 ## Criteria
 
