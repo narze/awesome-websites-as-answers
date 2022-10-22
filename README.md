@@ -18,6 +18,7 @@ Awesome list of websites that can be used as answers, contributions welcome!
 - https://www.idontwanttotalkaboutit.net - You need an advance health care directive!!!
 - https://www.caniuse.com - Can i use this feature on my website ?
 - https://www.whatismyip.com/ - Use to identify your public ip address ?
+- https://whatwebcando.today/ - Can I rely on the Web Platform features to build my app?
 
 ## Criteria
 
