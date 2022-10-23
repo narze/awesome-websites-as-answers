@@ -16,10 +16,10 @@ Awesome list of websites that can be used as answers, contributions welcome!
 - https://itdidnt.work/ - Don’t just say “It didn’t work.”
 - https://shouldideploy.today - Should I deploy today?
 - https://www.idontwanttotalkaboutit.net - You need an advance health care directive!!!
-- https://www.caniuse.com - Can i use this feature on my website ?
 - https://www.whatismyip.com/ - Use to identify your public ip address ?
 
 ## Criteria
 
 The website could be used as the answer to the question alone, without any explanations (Since they will be on the website itself.) The website should serve only one purpose.
 The exception type of question is `What is X?`, and they won't be accepted since there will be so many websites.
+Another exception is informative websites that have many answers like caniuse.com or whatwebcando.today, ideally the website should answer only one question.
