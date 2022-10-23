@@ -17,6 +17,7 @@ Awesome list of websites that can be used as answers, contributions welcome!
 - https://shouldideploy.today - Should I deploy today?
 - https://www.idontwanttotalkaboutit.net - You need an advance health care directive!!!
 - https://www.whatismyip.com/ - Use to identify your public ip address ?
+- https://justforfunnoreally.dev/ - Just for Fun. No, Really.
 
 ## Criteria
 
