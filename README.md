@@ -19,6 +19,7 @@ Awesome list of websites that can be used as answers, contributions welcome!
 - https://www.whatismyip.com/ - Use to identify your public ip address ?
 - https://justforfunnoreally.dev/ - Just for Fun. No, Really.
 - https://pointerpointer.com - Where your pointer is ?
+- https://dontkillmyapp.com - Which Android phone brands kill background apps?
 
 ## Criteria
 
