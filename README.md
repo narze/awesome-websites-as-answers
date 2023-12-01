@@ -21,6 +21,7 @@ Awesome list of websites that can be used as answers, contributions welcome!
 - https://pointerpointer.com - Where your pointer is ?
 - https://dontkillmyapp.com - Which Android phone brands kill background apps?
 - https://shoulditbeameeting.com - Should it be a meeting?
+- http://sscce.org - Short, Self Contained, Correct (Compilable), Example
 
 ## Criteria
 
