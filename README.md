@@ -24,6 +24,7 @@ Awesome list of websites that can be used as answers, contributions welcome!
 - https://shoulditbeameeting.com - Should it be a meeting?
 - http://sscce.org - Short, Self Contained, Correct (Compilable), Example
 - https://conventionalcomments.org - Comments that are easy to grok and grep
+- https://nomeatproxy.com - Don't just relay AI output without thinking
 
 ## Criteria
 
