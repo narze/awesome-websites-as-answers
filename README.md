@@ -25,6 +25,7 @@ Awesome list of websites that can be used as answers, contributions welcome!
 - http://sscce.org - Short, Self Contained, Correct (Compilable), Example
 - https://conventionalcomments.org - Comments that are easy to grok and grep
 - https://nomeatproxy.com - Don't just relay AI output without thinking
+- https://iwha.at - I would have asked AI too, so ask it yourself
 
 ## Criteria
 
